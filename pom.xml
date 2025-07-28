@@ -7,11 +7,15 @@
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>3.5.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
+
 	</parent>
 	<groupId>com.example</groupId>
 	<artifactId>DevopsDemo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>DevopsDemo</name>
+
+	<packaging>war</packaging>
+
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
