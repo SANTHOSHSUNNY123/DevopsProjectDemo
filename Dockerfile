@@ -15,6 +15,5 @@ From tomcat:9
 copy DevopsDemo.war /usr/local/tomcat/webapps
 
 Expose 8080
-Expose 8080
 
 CMD ["catalina.sh","run"]
