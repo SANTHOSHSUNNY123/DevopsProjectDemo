@@ -14,6 +14,6 @@ From tomcat:9
 
 copy addressbook.war /usr/local/tomcat/webapps
 
-Expose 8080
+Expose 8081
 
 CMD ["catalina.sh","run"]
