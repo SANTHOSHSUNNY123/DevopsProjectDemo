@@ -12,7 +12,7 @@
 
 From tomcat:9
 
-copy addressbook.war /usr/local/tomcat/webapps
+copy DevopsDemo-0.0.1-SNAPSHOT.war /usr/local/tomcat/webapps
 
 Expose 8081
 
